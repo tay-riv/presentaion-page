@@ -1,0 +1,127 @@
+h1{
+    font-size: 40px;
+    text-align: center;
+    background-color: #FFF3F8;
+    color: purple;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 25px;
+    margin: 45px;
+    border-radius: 25px;
+    margin-left: 25%;
+    margin-right: 25%;
+    border: 5px solid purple;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+.introtext{
+    font-size: 20px;
+    text-align: center;
+}
+
+h3{
+    font-size: 30px;
+}
+
+.hobbiestext{
+    font-size: 20px;
+    text-align: center;
+}
+
+h4{
+    font-size: 30px;
+}
+
+
+
+.intro{
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   align-items: center;
+   padding-left: 30px;
+   padding-top: 30px;
+   padding-right: 30px;
+   margin-top: 100px;
+}
+
+.introtext {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    display: flex;
+    align-content: right;
+    padding-left: 75px;
+}
+
+.hobbies {
+    display: flex;
+   flex-direction: row;
+   justify-content: center;
+   align-items: center;
+   padding-left: 30px;
+   padding-right: 30px;
+   padding-top: 30px;
+}
+
+.hobbiestext {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    display: flex;
+    align-content: right;
+    padding-right: 75px;
+}
+
+.contact { 
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+    margin-bottom: 150px;
+}
+
+.contacttext {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-left: 200px;
+}
+
+img{
+    border-radius: 30px;
+    border: 5px solid purple;
+}
+
+.socials {
+    display: flex;
+    flex-direction: row;
+    padding: 30px;
+    margin-top: -40px;
+
+}
+
+#email {
+    font-size: 20px;
+}
+
+#insta {
+    padding-inline: 10px;
+}
+
+#fb {
+    padding-inline: 10px;
+}
+
+
+
+
